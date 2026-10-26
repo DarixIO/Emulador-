@@ -1,0 +1,6 @@
+{
+  "name": "El Viaje de los Datos — Emulador TCP/IP",
+  "description": "Simulador interactivo que explica paso a paso qué ocurre cuando envías un mensaje por Internet: fragmentación en paquetes, enrutamiento independiente en malla IP y reensamblado automático TCP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
